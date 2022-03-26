@@ -1,4 +1,4 @@
-package TypeofClasses;
+package InterfaceInJava;
 
 public interface InterfaceExp {
 

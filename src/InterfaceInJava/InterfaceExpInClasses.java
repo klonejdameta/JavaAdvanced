@@ -1,6 +1,9 @@
-package TypeofClasses;
+package InterfaceInJava;
 
-public class InterfaceExpInClasses implements InterfaceExp,InterfaceExp2 { //per te vendosur disa interface
+import InterfaceInJava.InterfaceExp;
+import InterfaceInJava.InterfaceExp2;
+
+public class InterfaceExpInClasses implements InterfaceExp, InterfaceExp2 { //per te vendosur disa interface
 
     private  int nr1;
     private  int nr2;

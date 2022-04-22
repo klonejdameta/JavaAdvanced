@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class ArraytoTreeMap {
+public class ArrayToMap {
     public static void main(String[] args) {
         List<Integer> list = new ArrayList<>(30);
         list.add(1);
